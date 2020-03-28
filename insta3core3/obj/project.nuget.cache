@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xZd6TLafu4k3kF0L0OFfc4PP+9jRdrPWzqyc159YmM5hyCpP/rQF4nbjyP008LuMpW5R+1iBg87bOexzFo0TBQ==",
+  "success": true,
+  "projectFilePath": "C:\\github\\insta3core3\\insta3core3\\insta3core3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kumarar\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}
